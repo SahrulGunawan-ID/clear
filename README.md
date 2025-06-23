@@ -1,3 +1,20 @@
+
+# Linux Clear
+
+Simple C Clear Linux
+
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+## Authors
+
+- [@SahrulGunawanID]([https://www.github.com/octokatherine](https://github.com/SahrulGunawan-ID/clear))
+
+
+
 # Ultilitas Linux Clear
 
 # Author: SahrulGunawan

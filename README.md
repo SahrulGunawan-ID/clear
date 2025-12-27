@@ -1,5 +1,5 @@
 
-# Linux Clear
+# Linux Clear Script
 
 Simple C Clear Linux
 
